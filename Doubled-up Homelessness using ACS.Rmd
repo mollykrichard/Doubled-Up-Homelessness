@@ -1,5 +1,6 @@
 ---
-title: "Doubled-Up Homelessness using ACS Microdata"
+title: "R code for Measuring Doubled-Up Homelessness using ACS Microdata"
+Author: Rachel G. Mckane
 
 ---
 First, we install the necessary library packages. library(ipumsr) is also helpful, though not necessary.
